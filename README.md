@@ -121,3 +121,6 @@ Backend เปิดให้ origin `http://localhost:3001` เรียกไ�
 4. ลองกด "เพิ่ม Major" บน FE → ดู Network tab → ดู cache update
 5. เปิด **TanStack Devtools** (มุมล่างซ้าย) ดู query state real-time
 6. อ่าน code ทีละไฟล์ตาม comment · เริ่มจาก `lib/api.ts` → `lib/hooks/use-majors.ts` → `app/majors/page.tsx`
+
+
+hello
